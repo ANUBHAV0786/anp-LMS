@@ -6,7 +6,11 @@ This will make a LMS SYSTEM
 
 STUDENT : Dashboard 
           BIO
-          videos , courses 
-          pdf text workbook courses
+          Videos , courses 
+          pdf, text, workbook courses
 TEACHER : DASH
+          provides courses videos text pdf workbook
+          provides answers
+          go live ( Function )
           
+
